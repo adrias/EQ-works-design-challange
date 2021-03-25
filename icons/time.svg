@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
-  <g id="Group_649" data-name="Group 649" transform="translate(-987 -1260)">
-    <circle id="Ellipse_53" data-name="Ellipse 53" cx="36" cy="36" r="36" transform="translate(987 1260)" fill="#4169e1"/>
-    <path id="clock" d="M16,0A16,16,0,1,0,32,16,16.018,16.018,0,0,0,16,0Zm7.609,24.276a1.332,1.332,0,0,1-1.885,0l-6.667-6.667a1.327,1.327,0,0,1-.391-.943V8a1.333,1.333,0,1,1,2.667,0v8.115l6.276,6.276a1.332,1.332,0,0,1,0,1.885Zm0,0" transform="translate(1007 1280)" fill="#fff"/>
-  </g>
-</svg>
